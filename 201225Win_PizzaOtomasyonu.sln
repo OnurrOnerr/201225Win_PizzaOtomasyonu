@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "201225Win_PizzaOtomasyonu", "201225Win_PizzaOtomasyonu\201225Win_PizzaOtomasyonu.csproj", "{64A3F70C-1591-43D4-8220-94A954FB29BF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "PizzaOtomasyonuSetup", "PizzaOtomasyonuSetup\PizzaOtomasyonuSetup.vdproj", "{CF5693EE-2736-402B-8DEB-A977E9DF40AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A3F70C-1591-43D4-8220-94A954FB29BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A3F70C-1591-43D4-8220-94A954FB29BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A3F70C-1591-43D4-8220-94A954FB29BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A3F70C-1591-43D4-8220-94A954FB29BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF5693EE-2736-402B-8DEB-A977E9DF40AD}.Debug|Any CPU.ActiveCfg = Debug
+		{CF5693EE-2736-402B-8DEB-A977E9DF40AD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {069FA922-70E6-4C95-9012-4D98AAD8F77E}
+	EndGlobalSection
+EndGlobal
